@@ -1,0 +1,28 @@
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\bin\Debug\Sistema_de_R.Humanos.exe.config
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\bin\Debug\Sistema_de_R.Humanos.exe
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\bin\Debug\Sistema_de_R.Humanos.pdb
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema de R. Humanos.csprojResolveAssemblyReference.cache
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Inicio.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Properties.Resources.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema de R. Humanos.csproj.GenerateResource.Cache
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.exe
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.pdb
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Agregar_empleado.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Contraloria_municipal.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Direccion_general_de_S_C.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Expedientes_anteriores.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.H_Cabildo_Regidores.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Nuevo_expediente.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Presidente_municipal.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Secretaria_general.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Tesoreria_municipal.resources
+c:\users\osvaldo cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema_de_R.Humanos.Ver_empleados.resources
+C:\Users\Osvaldo Cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Osvaldo Cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Osvaldo Cazarez\documents\visual studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\obj\Debug\Sistema de R. Humanos.csproj.ResolveComReference.cache
+C:\Users\Osvaldo Cazarez\Documents\Visual Studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\bin\Debug\iTextSharp.dll
+C:\Users\Osvaldo Cazarez\Documents\Visual Studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\bin\Debug\PdfiumViewer.dll
+C:\Users\Osvaldo Cazarez\Documents\Visual Studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\bin\Debug\PdfiumViewer.xml
+C:\Users\Osvaldo Cazarez\Documents\Visual Studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\Osvaldo Cazarez\Documents\Visual Studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Osvaldo Cazarez\Documents\Visual Studio 2013\Projects\Sistema de R. Humanos\Sistema de R. Humanos\bin\Debug\AxInterop.AcroPDFLib.dll
